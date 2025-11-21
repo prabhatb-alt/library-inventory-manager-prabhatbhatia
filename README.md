@@ -14,7 +14,6 @@ A simple command-line application to manage a campus library's book catalog. Bui
 - **Search Books** – Find books by title or ISBN
 - **View All Books** – Display the entire catalog
 - **Persistent Storage** – Data saved automatically to CSV file
-- **Error Logging** – All operations logged to `library.log`
 
 ---
 
