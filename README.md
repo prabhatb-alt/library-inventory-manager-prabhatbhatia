@@ -37,23 +37,18 @@ library-inventory-manager-Prabhat/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/library-inventory-manager-prabhatbhatia.git
+   git clone https://github.com/prabhatb-alt/library-inventory-manager-prabhatbhatia.git
    cd library-inventory-manager-prabhatbhatiaa
    ```
 
-2. **Install dependencies** (if any)
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the application**
+2. **Run the application**
    ```bash
    python -m cli.main
    ```
 
 ---
 
-## 🖥️ Usage
+## Usage
 
 When you run the program, you'll see this menu:
 
